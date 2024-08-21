@@ -4,10 +4,10 @@ This web application, though created in Django, is focused on Database Operation
 
 ## Features
 
-• **Database Operations**: Full CRUD (Create, Read, Update, Delete) functionality with forms.
-**User Management**: All operations are tailored to work from the user side smoothly and intuitively.
-**Form Handling**: It is fitted with forms for adding, editing, and searching data within the database.
-**Template Rendering**: User interface rendered from Django templates, dynamic content given by user input and database queries.
+- **Database Operations**: Full CRUD (Create, Read, Update, Delete) functionality with forms.
+- **User Management**: All operations are tailored to work from the user side smoothly and intuitively.
+- **Form Handling**: It is fitted with forms for adding, editing, and searching data within the database.
+- **Template Rendering**: User interface rendered from Django templates, dynamic content given by user input and database queries.
 
 ## Project Setup
 
@@ -28,8 +28,8 @@ To be able to run this project locally, follow the instructions below.
 
     ```bash
     python manage.py migrate
-=====
- 3. **Run the development server**:
+    
+3. **Run the development server**:
 
     ```bash
     python manage.py runserver
