@@ -21,7 +21,7 @@ To be able to run this project locally, follow the instructions below.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/MyDjangoWebsite.git
+    git clone https://github.com/Haroon1056/Small-Complete-Website-using-Django.git
     ```
 
 2. **Run migrations**:
